@@ -1,12 +1,12 @@
 create a new branch in project
 the branch is used to cooperate
 
-<<<<<<< HEAD
+
 modified banch.txt on the dev from branch1
 end branch1
-=======
+
 modified the file on the dev from branch2
 end on branch2
->>>>>>> 0cd89b7a9859dbc17b418bdcb1980908d42df358
+
 
 
